@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **Python, x86 Assembly, C++**
 
-- 💬 Ask me about **Python, LFS**
+- 💬 Ask me about: **Python, LFS**
 
-- 📫 How to reach me **altstr10@gmail.com**
+- 📫 How to reach me:**altstr10@gmail.com**
 
-- 📄 Know about my experiences : 2020 OSCP certified, founder/innovator at AIHorizon.inc
+- 📄 Know about my experiences : **2020 OSCP certified, founder/innovator at AIHorizon.inc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
