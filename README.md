@@ -1,4 +1,5 @@
 ![logo](https://github.com/Ryan-Blade/Ryan-Blade/blob/bc21f24c155f9b855466ca26eaaf3e76e661aade/gallery(2).png)
+
 <h1 align="center">Hi 👋, I'm Siddhartha Sarkar</h1>
 <h3 align="center">An avid programming enthusiast from India</h3>
 
@@ -12,9 +13,9 @@
 
 - 🌱 I’m currently learning **Python, x86 Assembly, C++**
 
-- 💬 Ask me about: **Python, LFS**
+- 💬 Ask me about **Python, LFS**
 
-- 📫 How to reach me:**altstr10@gmail.com**
+- 📫 How to reach me **altstr10@gmail.com**
 
 - 📄 Know about my experiences : **2020 OSCP certified, founder/innovator at AIHorizon.inc**
 
