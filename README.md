@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhartha Sarkar</h1>
 <h3 align="center">An avid programming enthusiast from India</h3>
 
-<img align="right" alt="coding" width="600" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="coding" width="1000" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan-blade&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-blade" /> </p>
 
