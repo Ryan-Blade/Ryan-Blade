@@ -1,4 +1,4 @@
-![logo](gallery(2).png)
+![logo](https://github.com/Ryan-Blade/Ryan-Blade/blob/3b5efee5b4cafdc8609c603a71e6d1ee63284a54/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Siddhartha Sarkar</h1>
 <h3 align="center">An avid programming enthusiast from India</h3>
 
