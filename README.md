@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **altstr10@gmail.com**
 
-- 📄 Know about my experiences [2020-2021 intern as cloud engineer at Microsoft](2020-2021 intern as cloud engineer at Microsoft)
+- 📄 Know about my experiences : 2020 OSCP certified, founder/innovator at AIHorizon.inc
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
