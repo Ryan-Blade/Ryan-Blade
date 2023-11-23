@@ -1,8 +1,8 @@
 ![logo](https://github.com/Ryan-Blade/Ryan-Blade/blob/bc21f24c155f9b855466ca26eaaf3e76e661aade/gallery(2).png)
 <h1 align="center">Hi 👋, I'm Siddhartha Sarkar</h1>
-<h3 align="left">An avid programming enthusiast from India</h3>
+<h3 align="center">An avid programming enthusiast from India</h3>
 
-<img align="right" alt="coding" width="200" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
+<img align="right" alt="coding" width="800" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryan-blade&label=Profile%20views&color=0e75b6&style=flat" alt="ryan-blade" /> </p>
 
