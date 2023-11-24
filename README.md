@@ -1,4 +1,4 @@
-![logo](Banner.jpg)
+![logo](https://github.com/Ryan-Blade/Ryan-Blade/blob/ff8d76ea0e00af87e7dac8636743940c077cd646/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Siddhartha Sarkar</h1>
 <h3 align="center">An avid programming enthusiast from India</h3>
 
